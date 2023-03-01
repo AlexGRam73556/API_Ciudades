@@ -1,0 +1,37 @@
+{
+    "cities":[{
+        "name": "Leon",
+        "latitude": -101.2570844,
+        "longitude": 21.0171113
+    },
+    {
+        "name": "Vancouver",
+        "latitude": -123.1212611,
+        "longitude": 49.2863681
+    },
+    {
+        "name": "Paris",
+        "latitude": 48.8785686,
+        "longitude": 2.2838848
+    },
+    {
+        "name": "Inglatera",
+        "latitude": -1.5540036,
+        "longitude": 53.7974505
+    },
+    {
+        "name": "Sidney",
+        "latitude": 33.865054,
+        "longitude": 151.2000392
+    },
+    {
+        "name": "Bangalori",
+        "latitude": 12.9913889,
+        "longitude": 77.7272557
+    },
+    {
+        "name": "Gdansk",
+        "latitude": 54.3864285,
+        "longitude": 18.465285
+    }]
+}
